@@ -83,8 +83,6 @@ class UbudgetDashboardScreen extends StatelessWidget {
               ),
 
               const SizedBox(height: 18),
-
-              // Remaining Balance Summary Card
               Container(
                 width: double.infinity,
                 padding: const EdgeInsets.all(18),

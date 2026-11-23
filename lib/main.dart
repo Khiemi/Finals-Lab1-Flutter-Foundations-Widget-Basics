@@ -111,7 +111,7 @@ class UbudgetDashboardScreen extends StatelessWidget {
                     ),
                     SizedBox(height: 6),
                     Text(
-                      'Monthly budget overview (sample preview)',
+                      'Monthly budget overview',
                       style: TextStyle(
                         fontSize: 12,
                         color: Color(0xFFB8C6DA),
